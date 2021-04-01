@@ -1,8 +1,15 @@
 <template>
   <div class="home">
   
-  <h1> CyberSnap </h1>
+  <h1 class=""> CyberSnap </h1>
+  
+<div v-for="space in this.spaces" class="inline-block rounded-lg m-2 w-64 h-64 border border-gray-400">
+<h1 class="text-bold text-2xl mt-3 h-32  table w-full">{{space.name}} </h1>    
+     </div>  
+  
+  
   </div>
+  
 </template>
 
 <script>

@@ -29,3 +29,4 @@
   color: #42b983;
 }
 </style>
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">

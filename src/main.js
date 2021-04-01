@@ -1,7 +1,5 @@
 
-// require('tailwindcss/dist/tailwind.min.css')
-// require('tailwindcss/dist/components.min.css')
-// require('tailwindcss/dist/utilities.min.css')
+
 
 import Vue from "vue";
 import App from "./App.vue";
